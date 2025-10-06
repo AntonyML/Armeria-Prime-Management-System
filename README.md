@@ -4,7 +4,7 @@ Sistema de gestión empresarial desarrollado en **C# .NET Framework 4.7.2** con 
 
 ## 📋 Descripción
 
-Este proyecto final de Programación 3 implementa un sistema completo de gestión para armería "Armería Prime", incluyendo:
+Este proyecto implementa un sistema completo de gestión para armería "Armería Prime", incluyendo:
 
 - **Gestión de Inventario**: Control completo de artículos, líneas, marcas y unidades
 - **Gestión de Clientes**: Administración de base de datos de clientes
@@ -242,22 +242,15 @@ En Visual Studio:
 
 ## 📄 Licencia
 
-Proyecto académico desarrollado para el curso de Programación 3.
-© 2023 - Universidad de Costa Rica
 
 ## 👥 Equipo de Desarrollo
 
-- **Desarrollador Principal**: [Nombre del desarrollador]
-- **Curso**: Programación 3
-- **Institución**: Universidad de Costa Rica
-- **Año**: 2023
+- **Desarrollador Principal**: Antony Monge López
+
 
 ## 📞 Soporte
 
 Para soporte técnico o preguntas sobre el proyecto:
-- **Email**: [correo del desarrollador]
-- **Curso**: Programación 3 - UCR
+- **Email**: ANTONY.MONGELOPEZ@ucr.ac.cr
 
 ---
-
-**Nota**: Este es un proyecto académico desarrollado con fines educativos para el curso de Programación 3 de la Universidad de Costa Rica.
